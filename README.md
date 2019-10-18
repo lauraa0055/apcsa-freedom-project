@@ -1,5 +1,5 @@
 # APCSA Freedom Project
-by Your Name Here
+Laura N. Arias
 
 ## Context
 Text
