@@ -47,6 +47,8 @@ Although just like you have to keep drawing in order to become a better artist, 
 forcing yourself. My goal for this app is for people to become used to not going into social media apps, or games, or a distracting website while they are trying to do their work
 until they no longer need the app anymore.
 
+I know it seems like I have already chosen what I am going to do, but this is really
+just an idea as to what it is that I wish to do based on my own personal problems.
 
 
 [Next](entry02.md)
