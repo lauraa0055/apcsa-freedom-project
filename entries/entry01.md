@@ -2,17 +2,15 @@
 ##### 10/18/19
 
 
-
 **First Day**
 
-The Freedom Project happens everyday friday. Even though we are learning java our teacher
-is allowing us to research and do a project using another language of our choice.
+In APCSA we are learning java. Once Friday hits however, it is time to start on the Freedom Project. Our teacher wants us to learn a different language or use Java itself to make our own project.
 
-I personally do not know what it is that I want to work on, but I do know that I want to make an app for the iphone.
+I personally do not know what it is that I want to work on, but I do know that I want to make an  iPhone app.
 Knowing that I know that I will be learning swift one way or another.
 
 At first I was thinking of making a productivity app that keep all my homework in one place and gives me reminders of tests and quizzes.
-Although there is someone else in my class who is already doing that.
+Although there is someone else in my class who is already doing that and I would rather not repeat ideas.
 
 Instead I am thinking about making an app that helps you focus by locking certain apps
 at a specific time. By locking I mean not being able to access an app.
@@ -28,7 +26,7 @@ While I do wish to do this in the future it is also best to be reasonable about 
 with the tools I am given. If I see an opportunity to possibly start my idea then I will take it.
 Although for now I wish to do something that helps people concentrate.
 
-Knowing what it is that I want to do (for now) I did do some research and I found that in the App store for Iphones
+Knowing what it is that I want to do (for now) I did do some research and I found that in the App store for iPhones
 there aren't any good apps that help the user concentrate. At least not good enough to keep me from reaching my phone.
 
 Most of the apps available that are designed to keep the user focused at a task have almost the same concept.
@@ -48,9 +46,6 @@ They may think "why should I lock instagram or snapchat? That'll just be a waste
 Although just like you have to keep drawing in order to become a better artist, you need to continue to force yourself to stay focused until you are no longer
 forcing yourself. My goal for this app is for people to become used to not going into social media apps, or games, or a distracting website while they are trying to do their work
 until they no longer need the app anymore.
-
-I know it seems like I have already chosen what I am going to do, but this is really
-just an idea as to what it is that I wish to do based on my own personal problems.
 
 
 
