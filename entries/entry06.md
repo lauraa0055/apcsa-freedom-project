@@ -8,7 +8,6 @@ I managed to find an easier option and that easy option started with [this video
 The work seemed simple and I did not need to update the dates in a complicated way. The calendar was given to you and now all that is needed is personal customization and features. They had a reference sheet at: [FSCalendar Cocoapods](https://cocoapods.org/pods/FSCalendar).
 
 Once I finished setting up the calendar I began to vigorously search how to add events and save them on the calendar.
-
 After doing some research I realized that I needed an MVP and stopped trying to get fancy. My MVP is a working calendar with accurate dates that allows you to see the months per year. Of course I also made sure that the user was capable of making an event. The only problem was keeping the event stored and displayed on the calendar.
 
 ---
