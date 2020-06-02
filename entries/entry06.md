@@ -22,7 +22,8 @@ Once I added the new view controller I added buttons that take you to that page.
 Swift has easy and simple controls if you take the time to learn them. In order to make sure that the buttons go to the second page and back, we click option and drag to the mouse to the second page. This tells the program that the button should open/lead to the page that it got connected to.
 
 After making the buttons and setting up the event page, this was the final product:
-![Storyboard](images/Storyboard.png)
+![storyboard](images/Storyboard.png)
+
 ---
 
 During these past few days my main focus was trying to figure out how to save an event to the calendar itself. I did not manage to accomplish this, but knowing that I do have an MVP is reassuring.
